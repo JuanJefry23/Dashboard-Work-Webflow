@@ -3,8 +3,8 @@
 # Dashboard-Work-Webflow 
 
 
-Product webpage for a dashboard app aimed at professionals in the health industry to streamline appointments, medical histories, 
-and more for their patients.
+Product webpage for a dashboard app aimed at professionals in the health industry to streamline appointments, 
+medical histories, and more for their patients.
 
 About this work:
 
