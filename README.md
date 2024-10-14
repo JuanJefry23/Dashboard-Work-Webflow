@@ -3,9 +3,7 @@
 # Dashboard-Work-Webflow 
 
 
-Product webpage for a 
-dashboard 
-app aimed 
+Product webpage for a dashboard app aimed 
 at professionals in the health
 industry to streamline 
 appointments, 
