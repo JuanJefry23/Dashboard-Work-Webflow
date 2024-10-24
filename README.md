@@ -9,7 +9,8 @@ for
 a 
 dashboard 
 app aimed 
-at professionals in the health
+at professionals 
+in the health
 industry to streamline 
 appointments, 
 medical histories, and more for their
