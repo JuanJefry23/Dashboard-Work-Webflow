@@ -12,7 +12,8 @@ app aimed
 at 
 professionals 
 in the health
-industry to streamline 
+industry to 
+streamline 
 appointments, 
 medical histories, and more for their
 patients.
