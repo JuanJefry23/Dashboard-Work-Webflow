@@ -17,7 +17,8 @@ health
 industry to 
 streamline 
 appointments, 
-medical histories, and more for their
+medical histories, and more 
+for their
 patients.
 
 About this work:
